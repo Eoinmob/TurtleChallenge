@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c29SmUsA0qaghbVSSOM1J6D76TKq1uHB6adwajp8lFAmUzKhf53n0li493w7+Lx7MQfB2xXqL8XiwpnNXnJWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eoinm\\source\\repos\\TurtleChallenge\\TurtleChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eoinm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
